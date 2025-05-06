@@ -37,7 +37,7 @@
 # <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 - Email: [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:azerronaldo2004@gmail.com)
-- Facebook: [![Facebook]([https://img.shields.io/badge/Facebook-3b5998?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100008885132622&mibextid=JRoKGi](https://www.facebook.com/Omarbelhad))
+- Facebook: [![Facebook]([https://img.shields.io/badge/Facebook-3b5998?style=flat&logo=facebook&logoColor=white)]([https://www.facebook.com/profile.php?id=100008885132622&mibextid=JRoKGi](https://www.facebook.com/Omarbelhad)](https://www.facebook.com/Omarbelhad))
 
 
  ![Timothee Chalamet SNL](https://media.giphy.com/media/XDsQPj2Q8rtQG4BQ7b/giphy.gif)
